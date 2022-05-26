@@ -7,7 +7,6 @@ Catalina | 25 |
 -Desarrollo frontend
 
 -Diseño sonoro y arte multimedia.
-
 -Natación y pintura en acuarela
 
 
