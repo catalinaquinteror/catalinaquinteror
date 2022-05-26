@@ -2,10 +2,10 @@
 
 Catalina | 25 | 
 
-Bogotá - Colombia.
-Desarrollo frontend
-Diseño sonoro y arte multimedia.
-Natación y pintura en acuarela
+-Bogotá - Colombia.
+-Desarrollo frontend
+-Diseño sonoro y arte multimedia.
+-Natación y pintura en acuarela
 
 
 <!--
