@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-Catalina | 25 | 
+##Catalina | 25 | 
 
 -Bogotá - Colombia.
 
 -Desarrollo frontend
 
 -Diseño sonoro y arte multimedia.
+
 -Natación y pintura en acuarela
 
 
