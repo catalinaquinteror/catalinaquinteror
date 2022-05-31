@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 ## Catalina | 25 |  ![Image text](https://github.com/catalinaquinteror/catalinaquinteror/blob/main/gatinho-gato.png)
 
@@ -17,5 +17,10 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning frontend development in Laboratoria
-- 
+-
 -->
+
+```zsh
+> Cata
+```
+<img align="right" src="https://github.com/catalinaquinteror/catalinaquinteror/blob/main/gatinho-gato.png" alt="gatinho" width="320" />
