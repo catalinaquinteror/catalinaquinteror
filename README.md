@@ -37,7 +37,7 @@ Languages: JavaScript, HTML, CSS
 Learning: Node.js, Express, Python, Java
 Hobbies: Swimming, watercolor painting
 Linkedin: www.linkedin.com/in/catalinaquinteror
-Human-languages: Spanish, english, portuguese, also some german and french
+HumanLanguages: Spanish, english, portuguese, also some german and french
 ```
 
 <p align="center">
