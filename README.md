@@ -39,7 +39,8 @@ Hobbies: Swimming, watercolor painting
 Linkedin: www.linkedin.com/in/catalinaquinteror
 Human-languages: Spanish, english, portuguese, also some german and french
 ```
-<p align="left">
+
+<p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="watercolor palette" src="https://github.com/catalinaquinteror/catalinaquinteror/blob/main/paleta.jpg" width="172" height="50" />
+  <img alt="watercolor palette" src="https://github.com/catalinaquinteror/catalinaquinteror/blob/main/paleta.jpg" width="300" height="20" />
 
