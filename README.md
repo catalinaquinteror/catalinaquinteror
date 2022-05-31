@@ -42,5 +42,5 @@ Human-languages: Spanish, english, portuguese, also some german and french
 
 <p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="watercolor palette" src="https://github.com/catalinaquinteror/catalinaquinteror/blob/main/paleta.jpg" width="300" height="20" />
+  <img alt="watercolor palette" src="https://github.com/catalinaquinteror/catalinaquinteror/blob/main/paleta.jpg" width="300" height="40" />
 
