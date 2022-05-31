@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 > Cata
 ```
 
-<img alt="#474342" src="https://github.com/catalinaquinteror/catalinaquinteror/blob/main/cielo.png" width="186" height="250" />
+<img align="right" src="https://github.com/catalinaquinteror/catalinaquinteror/blob/main/cielo.png" alt="Watercolor Sky" width="186" height="250" />
 <!-- <img align="right" src="https://github.com/catalinaquinteror/catalinaquinteror/blob/main/gatinho-gato.png" alt="gatinho" width="320" /> -->
 
 ```csharp
