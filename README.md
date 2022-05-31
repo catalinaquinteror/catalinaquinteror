@@ -37,9 +37,9 @@ Languages: JavaScript, HTML, CSS
 Learning: Node.js, Express, Python, Java
 Hobbies: Swimming, watercolor painting
 Linkedin: www.linkedin.com/in/catalinaquinteror
+Human-languages: Spanish, english, portuguese, also some german and french
 ```
-<!-- <p align="left">
+<p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
-</p> -->
+  <img alt="watercolor palette" src="https://github.com/catalinaquinteror/catalinaquinteror/blob/main/paleta.jpg" width="172" height="50" />
 
