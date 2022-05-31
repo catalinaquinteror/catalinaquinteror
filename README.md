@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Catalina | 25 | 
+## Catalina | 25 |  ![Image text](https://github.com/catalinaquinteror/catalinaquinteror/blob/main/gatinho-gato.gif) 
 
 -Bogotá - Colombia.
 
