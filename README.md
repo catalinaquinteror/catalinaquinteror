@@ -6,7 +6,7 @@
 <!-- <img align="right" src="https://github.com/catalinaquinteror/catalinaquinteror/blob/main/gatinho-gato.png" alt="gatinho" width="320" /> -->
 
 ```csharp
-[GitHub Profile](catalinaquinteror@github)
+catalinaquinteror@github
 -------------------------
 Pronouns: She/Her
 Location: Bogota, Colombia
@@ -15,7 +15,7 @@ Languages: JavaScript, HTML, CSS
 Learning: Node.js
 Wishlist: Express, Python, Java
 Hobbies: Swimming, watercolor painting
-Linkedin: [LinkedIn Profile](www.linkedin.com/in/catalinaquinteror)
+Linkedin: catalinaquinteror
 HumanLanguages: Spanish, english, portuguese, also some german and french
 ```
 
